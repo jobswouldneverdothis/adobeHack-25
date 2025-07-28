@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-28T14:11:17.338626",
+    "total_sections_analyzed": 128,
+    "sections_returned": 7
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Winter (December to February)",
+      "importance_rank": 1,
+      "page_number": 3,
+      "relevance_score": 0.9904
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Budget-Friendly Restaurants",
+      "importance_rank": 2,
+      "page_number": 2,
+      "relevance_score": 0.9746
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Provençal Language",
+      "importance_rank": 3,
+      "page_number": 2,
+      "relevance_score": 0.9451
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Nice: The Jewel of the French Riviera",
+      "importance_rank": 4,
+      "page_number": 3,
+      "relevance_score": 0.9337
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Must-Visit Restaurants",
+      "importance_rank": 5,
+      "page_number": 4,
+      "relevance_score": 0.9313
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Boutique Shopping",
+      "importance_rank": 6,
+      "page_number": 8,
+      "relevance_score": 0.9058
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Cultural Highlights",
+      "importance_rank": 7,
+      "page_number": 9,
+      "relevance_score": 0.8976
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• Clothing: Warm layers such as sweaters, long-sleeve shirts, and thermal tops. A heavy coat, gloves, and a hat. • Footwear: Waterproof boots and comfortable walking shoes. • Accessories: A scarf, sunglasses for sunny winter days, and a travel-sized hand warmer. • Additional Tips: Winter is mild compared to other regions, but it's still important to pack warm clothing for cooler evenings. Consider packing thermal underwear for extra warmth. Packing for Adults • Casual Wear: Comfortable clothes for sightseeing and casual dining, like jeans, t- shirts, and casual dresses. • Evening Wear: Dressier outfits for dining out or events. Pack a nice dress or dress pants and a blouse/shirt. • Active Wear: If you plan on hiking or outdoor activities, pack activewear like leggings, shorts, and moisture-wicking tops. • Swimwear: Don't forget your swimsuit for beach or pool visits. • Accessories: A stylish yet functional bag, a lightweight scarf, and a versatile jacket. • Additional Tips: Pack a few statement pieces that can be dressed up or down, such as a versatile dress or a pair of stylish shoes.",
+      "page_number": 3,
+      "section_title": "Winter (December to February)",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "The cozy atmosphere and friendly staff make it a great spot for a casual meal. • Le Petit Nice (Marseille): A budget-friendly option offering a variety of seafood dishes. The relaxed setting and fresh ingredients make it a popular choice. • Le Café de Turin (Nice): Known for its seafood, this café offers a variety of affordable dishes in a lively setting. The fresh oysters are a must-try. • Le Panier (Marseille): A casual eatery offering a variety of Mediterranean dishes at reasonable prices. The outdoor seating and friendly service make it a great spot for a relaxed meal. • Le Bistrot Gourmand (Cannes): This bistro offers a variety of traditional French dishes at affordable prices. The cozy atmosphere and friendly staff make it a great spot for a casual meal. • Le Petit Pontoise (Paris): A charming bistro offering a variety of traditional French dishes at reasonable prices. The cozy atmosphere and friendly service make it a great spot for a casual meal.",
+      "page_number": 2,
+      "section_title": "Budget-Friendly Restaurants",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "The Provençal language, also known as Occitan, has been a significant part of the cultural identity of the South of France. Although French is the dominant language today, Provençal was widely spoken until the 19th century. It is still preserved in literature, music, and local expressions. Efforts to revive and promote the language continue, with festivals and educational programs dedicated to its preservation.",
+      "page_number": 2,
+      "section_title": "Provençal Language",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Nice, located on the French Riviera, has been a popular destination for centuries. Its history dates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a Roman colony and has since evolved into a glamorous resort town. Key Historical Sites in Nice • Castle Hill (Colline du Château) : This hilltop park offers stunning views of Nice and the Mediterranean. It was once the site of a medieval castle, which was destroyed in the 18th century. • Promenade des Anglais : This famous seaside promenade was built in the 19th century and named after the English aristocrats who frequented Nice. It's perfect for a leisurely stroll along the coast. • Old Town (Vieux Nice) : The historic center of Nice is a labyrinth of narrow streets, baroque churches, and bustling markets. Don't miss the Cours Saleya market, where you can find fresh produce, flowers, and local delicacies. • Russian Orthodox Cathedral : Built in the early 20th century, this stunning cathedral reflects the influence of Russian aristocrats who vacationed in Nice. • Cimiez : An ancient Roman settlement, Cimiez is home to the ruins of a Roman amphitheater and baths, as well as the Monastery of Cimiez, which offers beautiful gardens and a museum dedicated to the painter Henri Matisse 3 . • Carnival of Nice : One of the most famous carnivals in France, the Carnival of Nice dates back to 1873 and features elaborate parades, floats, and flower battles 4 .",
+      "page_number": 3,
+      "section_title": "Nice: The Jewel of the French Riviera",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "To truly experience the culinary delights of the South of France, here are some restaurants you should consider visiting: • Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant offering exquisite seafood dishes and stunning views of the Mediterranean. Chef Gérald Passedat is known for his innovative approach to seafood, creating dishes that are both visually stunning and incredibly flavorful. The restaurant's location on the cliffs overlooking the sea adds to the overall dining experience. • La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred restaurant serves refined Provençal cuisine with breathtaking views of the French Riviera. The restaurant's terrace offers panoramic views of the Mediterranean, making it the perfect spot for a romantic dinner. The menu features dishes that highlight the region's fresh, seasonal ingredients. • Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur offers a unique dining experience with a focus on fresh, local ingredients and innovative dishes. Chef Mauro Colagreco's cuisine is inspired by the surrounding landscape, with many ingredients sourced from the restaurant's own gardens. The menu changes with the seasons, ensuring that each visit is a new and exciting experience.",
+      "page_number": 4,
+      "section_title": "Must-Visit Restaurants",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "• Cannes: Shop along the famous Rue d'Antibes, lined with high-end boutiques, designer stores, and luxury brands. • Aix-en-Provence: Browse shops and cafes on Cours Mirabeau, an elegant boulevard with a variety of stores. • Nice: Find charming boutiques in the old town, offering handmade soaps, ceramics, and local crafts. • Saint-Tropez: Explore the chic boutiques and designer stores in this glamorous town. • Marseille: Visit the trendy shops in the Le Panier district, known for its artisan goods and unique finds. • Montpellier: Discover the boutiques in the historic Écusson district, offering fashion, jewelry, and art. • Toulouse: Shop in the vibrant Capitole area, home to a mix of high-end and independent stores.",
+      "page_number": 8,
+      "section_title": "Boutique Shopping",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Toulouse is renowned for its vibrant cultural scene, with numerous theaters, music venues, and festivals. The city hosts the Toulouse International Art Festival, which features contemporary art exhibitions and performances. Toulouse's cuisine is also notable, with local specialties such as cassoulet (a hearty bean and meat stew) and foie gras being popular dishes.",
+      "page_number": 9,
+      "section_title": "Cultural Highlights",
+      "importance_rank": 7
+    }
+  ]
+}

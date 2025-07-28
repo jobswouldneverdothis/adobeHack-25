@@ -1,0 +1,10 @@
+--find-links https://download.pytorch.org/whl/cpu/torch_stable.html
+transformers==4.27.4
+sentence-transformers==2.2.2
+huggingface-hub==0.13.4
+torch==2.0.1
+numpy==1.24.3
+faiss-cpu==1.7.4
+PyMuPDF==1.23.25
+tqdm==4.65.0
+scikit-learn==1.2.2
